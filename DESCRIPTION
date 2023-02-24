@@ -1,0 +1,21 @@
+Package: disgenet2r
+Type: Package
+Title: an R package to query, visualize, and expand DisGeNET data
+Version: 0.99.3
+Subversion: 20160727
+Date: 2023-02-23
+Author: IBI group
+Maintainer: <support@disgenet.org>
+Description: R package to query and expand DisGeNET data (www.disgenet.org), and to visualize the results within R framework. The disgenet2r package is designed to retrieve data from DisGeNET v6.0 (Jan, 2019).
+License: MIT
+Depends: R (>= 3.5.0)
+LazyData: true
+VignetteBuilder: knitr
+Suggests: testthat, parallel, knitr
+Imports: httr, VennDiagram, stringr, igraph, tidyr, tidyverse, purrr,
+        ggplot2, reshape2, reshape, gtable, data.table,
+        jsonlite
+RoxygenNote: 7.2.1
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2023-02-23 16:54:05 UTC; janet
