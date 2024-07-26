@@ -1,5 +1,7 @@
 # disgenet2r
 
+# This is an fork of the old version, new repo is on https://gitlab.com/medbio/disgenet2r
+
 `disgenet2r` is an R package to query and expand DisGeNET data (www.disgenet.org), and to visualize the results within R framework.
 The disgenet2r is designed to query data for DisGeNET v7.0 (May, 2020).
 ## What is this repository for?
