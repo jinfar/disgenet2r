@@ -1,6 +1,6 @@
 # disgenet2r
 
-## This is an fork of an old version, new versions can be found here 
+## This is fork of an old version, new versions can be found here 
 ## https://gitlab.com/medbio/disgenet2r
 
 `disgenet2r` is an R package to query and expand DisGeNET data (www.disgenet.org), and to visualize the results within R framework.
